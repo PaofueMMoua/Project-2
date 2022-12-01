@@ -5,6 +5,35 @@ h4 {
     text-align: center;
 }
 
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: #47A2C7;
+}
+
+.NavBar img{
+    height: 80px;
+    width: 80px;
+    margin: 0 20px;
+}
+
+.Navs{
+    display: flex;
+    justify-content: space-around;
+    width: calc(100% - 120px);
+}
+
+.Navs a{
+    width: calc(100% / 4);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
 .bigSection {
     background-color: #e9e5e2;
     display: flex;
@@ -16,5 +45,29 @@ h4 {
 }
 
 .thirdSection {
+
+}
+
+.footer{
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    background-color: #47A2C7;
+    padding: 20px;
+    color: #E6E6E6;
+    justify-content: space-between;
+}
+
+.footer img{
+    width: 80px;
+    height: 80px;
+}
+
+.footerLeft{
+    box-sizing: border-box;
+}
+
+.footerRight{
 
 }
