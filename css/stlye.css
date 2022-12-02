@@ -50,12 +50,10 @@ h4 {
 
 .thirdSection {
     background-color: #285E73;
-    border: red solid;
-    height: 60vh;
-
-
-
-
+    
+    height: 40vh;
+    width: 28%;
+    border-radius: 25%;
 }
 
 .footer{
@@ -93,6 +91,8 @@ h2{
 h3,
 h4{
     color: #FBEBD4;
+    font-size: 2em;
+    padding: 5px;
 }
 
 .hero{
