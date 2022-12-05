@@ -98,3 +98,28 @@ h4{
 .hero{
     width: 100%;
 }
+
+.center {
+    background-color: #285E73;
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    justify-content: space-around;
+    border-radius: 7%;
+}
+
+.center-imgs {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+    padding: 10px;
+}
+
+.column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
