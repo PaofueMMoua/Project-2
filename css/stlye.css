@@ -123,3 +123,40 @@ h4{
     flex-direction: column;
 }
 
+li {
+    color: #E6E6E6;
+}
+
+ul {
+    padding-bottom: 10px;
+}
+
+p {
+    color: #E6E6E6;
+    padding: 5px 5px 5px 15px;
+}
+
+#special {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 2.5vw;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+.row h2 {
+    font-size: 30px;
+}
