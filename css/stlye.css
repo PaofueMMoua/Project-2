@@ -129,6 +129,8 @@ h4{
     display: flex;
     align-items: center;
     margin: 50px;
+    margin-left: 8vw;
+    margin-right:8vw;
     justify-content: space-around;
     border-radius: 40px;
 }
@@ -190,4 +192,13 @@ p {
 /*button*/
 .small{
     color:  #FBEBD4;
+}
+
+.centerimage {
+    display:flex;
+    justify-content:center;
+}
+
+.centerimage img {
+    
 }
