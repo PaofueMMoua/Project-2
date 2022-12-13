@@ -206,6 +206,10 @@ p {
     justify-content: space-evenly;
 }
 
+.row img {
+    width:40%;
+}
+
 .row h2 {
     font-size: 3vw;
 }
