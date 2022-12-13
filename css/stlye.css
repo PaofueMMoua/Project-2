@@ -179,7 +179,7 @@ p {
     padding: 5px 5px 5px 10px;
 }
 
-#special {
+.special {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -272,6 +272,9 @@ p {
     display:none;
 }
 
+.container img {
+    width:89.5%;
+}
 
 /* media */
 
