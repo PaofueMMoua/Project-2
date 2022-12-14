@@ -148,8 +148,6 @@ h4{
     border-radius: 40px;
 }
 
-
-
 .center-imgs {
     display: flex;
     align-items: center;
@@ -349,66 +347,6 @@ p {
     .footer p {
         font-size:8px;
     }
-
-}
-
-
-
-
-
-
-.dropbtn span:nth-child(1) {
-    top:0px;
-}
-
-.dropbtn span:nth-child(2),
-.dropbtn span:nth-child(3) {
-    top:18px;
-}
-
-.dropbtn span:nth-child(4) {
-    top:36px;
-}
-
-
-.dropbtn.open span:nth-child(1) {
-    top:18px;
-    width:0%;
-    left: 50%;
-}
-
-.dropbtn.open span:nth-child(2) {
-    -webkit-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
-}
-
-.dropbtn.open span:nth-child(3) {
-    -webkit-transform: rotate(-0deg);
-    -moz-transform: rotate(-0deg);
-    -o-transform: rotate(-0deg);
-    transform: rotate(-0deg);
-}
-
-.dropbtn.open span:nth-child(2) {
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-.dropbtn.open span:nth-child(3) {
-    -webkit-transform: rotate(-45deg);
-    -moz-transform: rotate(-45deg);
-    -o-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-}
-
-.dropbtn.open span:nth-child(4) {
-    top:18px;
-    width:0px;
-    left:50%
 }
 
 
