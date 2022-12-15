@@ -199,6 +199,7 @@ p {
     color: #000;
     font-size: 3vw;
     font-family:Brush Script MT, Brush Script Std, cursive;
+    background-color:transparent;
 }
 
 .container {
